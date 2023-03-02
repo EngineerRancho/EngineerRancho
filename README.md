@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with ... can't say 
 - 💬 Ask me about ... myself 😅
-- 📫 How to reach me: ... Instagram - @gauravpandit_4ever
-                      ... WhatsApp - +15623997104
-- ⚡ Fun fact: ... kuchh bhi bnane lgta hm
+- 📫 How to reach me: ... Prefer Links on Profile
+- ⚡ Fun fact: ... solving the issues in issue solving.!
 -->
