@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Pt. Gaurav Sharma / Engineer Rancho
+# Pt. Gaurav Sharma / Engineer Rancho
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EngineerRancho/&title=Profile%20Views)
 ### since, April 2023
