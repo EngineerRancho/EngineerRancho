@@ -3,7 +3,7 @@
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EngineerRancho/&title=Profile%20Views)
 
-Here are some ideas to get you started:
+## ![](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Stats
 
 - 🔭 I’m currently working on Mini Project ideas 
 - 🌱 I’m currently learning Cyber cecurity 
