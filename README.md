@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Pt. Gaurav Sharma / Engineer Rancho
 
-
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EngineerRancho/&title=Profile%20Views)
 
 Here are some ideas to get you started:
 
