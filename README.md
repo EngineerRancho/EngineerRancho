@@ -5,10 +5,8 @@
 
 ## ![](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=EngineerRancho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="'Pt. Gaurav Sharma''s github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=EngineerRancho&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=EngineerRancho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="'Pt. Gaurav Sharma''s github stats" /> |
 
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=clownless&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxim's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=clownless&layout=compact&theme=buefy&hide_border=true" /> |
 
 - 🔭 I’m currently working on Mini Project ideas 
 - 🌱 I’m currently learning Cyber cecurity 
