@@ -1,5 +1,6 @@
 ### Hi there 👋
-## Pt. Gaurav Sharma / Engineer Rancho
+# Pt. Gaurav Sharma / Engineer Rancho
+## Cybersecurity / Ethical Hacking
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EngineerRancho/&title=Profile%20Views) Today/Since april 2023
 
