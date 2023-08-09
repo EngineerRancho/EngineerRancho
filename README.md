@@ -12,5 +12,5 @@
 - 🤔 I’m looking for help with ... can't say 
 - 💬 Ask me about ... myself 😅
 - 📫 How to reach me: ... Prefer Links on Profile
-- ⚡ Fun fact: ... solving the issues in issue solving.!
+- ⚡ Fun fact: ... solving the issues in your issue solvings.!
 -->
