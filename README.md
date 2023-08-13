@@ -3,7 +3,7 @@
 ## Cybersecurity / Ethical Hacking
 ### Drop Your ★★★★★
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EngineerRancho/&title=Profile%20Views) Today/Since april 2023
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EngineerRancho/&title=Profile%20Views)
 
 
 - 🔭 I’m currently working on Mini Project ideas 
