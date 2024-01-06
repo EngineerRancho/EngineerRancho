@@ -4,9 +4,10 @@
 ### Drop Your ★★★★★
 
 ![](https://komarev.com/ghpvc/?username=EngineerRancho&color=brightgreen)
-<span style="font-size: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=EngineerRancho&color=brightgreen" alt="Profile views" title="Profile views" />
-</span>
+<a href="https://github.com/EngineerRancho">
+  <img src="https://komarev.com/ghpvc/?username=EngineerRancho&color=brightgreen" alt="Profile views" title="Profile views" style="width: 200px; height: auto;" />
+</a>
+
 
 
 [<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" height="30"/>](mailto:2gauravpandit@gmail.com)
