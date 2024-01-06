@@ -3,8 +3,7 @@
 ## Cybersecurity / Ethical Hacking
 ### Drop Your ★★★★★
 
-<img src="https://komarev.com/ghpvc/?username=EngineerRancho&color=green&style=plastic&label=Profile+Views&color=ff9933" height="30" />
-
+![](https://komarev.com/ghpvc/?username=EngineerRancho&color=brightgreen)
 [<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" height="30"/>](mailto:2gauravpandit@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" height="30"/>](https://www.linkedin.com/in/pt-gaurav-sharma) &nbsp;
 [<img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge" height="30"/>](https://www.instagram.com/gauravpandit_4ever) &nbsp;
