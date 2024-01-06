@@ -5,7 +5,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=EngineerRancho&color=brightgreen) -->
 <a href="https://github.com/EngineerRancho">
-  <img src="https://komarev.com/ghpvc/?username=EngineerRancho&base=1800&color=brightgreen" alt="Profile views" title="Profile views" style="width: 150px; height: auto;" />
+  <img src="https://komarev.com/ghpvc/?username=EngineerRancho&base=1800&color=green" alt="Profile views" title="Profile views" style="width: 150px; height: auto;" />
 </a>
 
 
