@@ -23,6 +23,33 @@
 [<img src="https://img.icons8.com/color/144/000000/whatsapp.png" height="90"/>](https://wa.me/+15623997104) &nbsp;
 [<img src="https://img.icons8.com/color/144/000000/email.png" height="90"/>](mailto:2gauravpandit@gmail.com)
 
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .glow-effect {
+      transition: opacity 0.3s ease-in-out;
+    }
+
+    .glow-effect:hover {
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+  <div class="icons">
+    <a href="https://www.linkedin.com/in/pt-gaurav-sharma">
+      <img src="https://img.icons8.com/color/144/000000/linkedin.png" height="90" class="glow-effect"/>
+    </a>
+    <a href="https://www.instagram.com/gauravpandit_4ever">
+      <img src="https://img.icons8.com/color/144/000000/instagram-new.png" height="90" class="glow-effect"/>
+    </a>
+    <!-- Add other social media icons here with similar structure -->
+  </div>
+</body>
+</html>
+
+
 - 🔭 I’m currently working on Mini Project ideas 
 - 🌱 I’m currently learning Cyber cecurity 
 - 👯 I’m looking to collaborate on GitHub
