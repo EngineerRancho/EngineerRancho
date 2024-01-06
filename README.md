@@ -17,6 +17,12 @@
 [<img src="https://img.icons8.com/color/48/000000/email.png" height="30"/>](mailto:2gauravpandit@gmail.com)
 
 
+[<img src="https://img.icons8.com/color/144/000000/linkedin.png" height="90"/>](https://www.linkedin.com/in/pt-gaurav-sharma) &nbsp;
+[<img src="https://img.icons8.com/color/144/000000/instagram-new.png" height="90"/>](https://www.instagram.com/gauravpandit_4ever) &nbsp;
+[<img src="https://img.icons8.com/color/144/000000/snapchat.png" height="90"/>](http://www.snapchat.com/add/gauravpandit_1) &nbsp;
+[<img src="https://img.icons8.com/color/144/000000/whatsapp.png" height="90"/>](https://wa.me/+15623997104) &nbsp;
+[<img src="https://img.icons8.com/color/144/000000/email.png" height="90"/>](mailto:2gauravpandit@gmail.com)
+
 - 🔭 I’m currently working on Mini Project ideas 
 - 🌱 I’m currently learning Cyber cecurity 
 - 👯 I’m looking to collaborate on GitHub
