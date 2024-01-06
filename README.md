@@ -3,12 +3,12 @@
 ## Cybersecurity / Ethical Hacking
 ### Drop Your ★★★★★
 
-
+[<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" height="30"/>](mailto:2gauravpandit@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" height="30"/>](https://www.linkedin.com/in/pt-gaurav-sharma) &nbsp;
 [<img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge" height="30"/>](https://www.instagram.com/gauravpandit_4ever) &nbsp;
 [<img src="https://img.shields.io/badge/Snapchat-Add-yellow?style=for-the-badge" height="30"/>](http://www.snapchat.com/add/gauravpandit_1) &nbsp;
 [<img src="https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge" height="30"/>](https://wa.me/+15623997104) &nbsp;
-[<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" height="30"/>](mailto:2gauravpandit@gmail.com)
+
 
 <!--
 
