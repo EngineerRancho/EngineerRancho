@@ -26,7 +26,7 @@
 [<img src="https://img.icons8.com/color/144/000000/email.png" height="90"/>](mailto:2gauravpandit@gmail.com)
 -->
 
-- 🔭 I’m currently working on Mini Project ideas 
+<!-- 🔭 I’m currently working on Mini Project ideas 
 - 🌱 I’m currently learning Cyber cecurity 
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with ... can't say 
