@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=EngineerRancho&base=3000&color=brightgreen" alt="Profile views" title="Profile views" style="width: 150px; height: auto;" />
 </a>
 
-
+![](A.gif) / ! [](A.gif)
 
 [<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" height="26"/>](mailto:2gauravpandit@gmail.com) &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" height="26"/>](https://www.linkedin.com/in/pt-gaurav-sharma) &nbsp;
