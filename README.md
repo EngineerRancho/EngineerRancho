@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Pt. Gaurav Sharma / Engineer Rancho
-## Cybersecurity / Ethical Hacking
+## Cybersecurity / Python Developement
 ### Drop Your ★★★★★
 
 <a href="https://github.com/EngineerRancho">
