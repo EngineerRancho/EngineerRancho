@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Pt. Gaurav Sharma / Engineer Rancho
+# Gaurav Sharma / Engineer Rancho
 ## Cybersecurity / Python Developement
 ### Drop Your ★★★★★
 
